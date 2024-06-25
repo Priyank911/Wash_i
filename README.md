@@ -80,7 +80,8 @@ We welcome contributions from the community! To contribute:
 
 ## Mobile App
 
-![Wash_i Mobile App](Wash_i Page.jpg)
+<img src="https://github.com/Priyank911/Wash_i/blob/main/Wash_i%20Page.jpg" width=20% height=20%>
+
 
 ## License
 
