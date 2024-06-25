@@ -80,7 +80,7 @@ We welcome contributions from the community! To contribute:
 
 ## Mobile App
 
-![Wash_i Mobile App](path_to_your_image.png)
+![Wash_i Mobile App](Wash_i Page.jpg)
 
 ## License
 
